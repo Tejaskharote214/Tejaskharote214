@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 🌱 I’m currently learning **MERN stack**
-
 - 💬 Ask me about **any MERN related stuff**
 
 - 📫 How to reach me **kharote98@gmail.com**
